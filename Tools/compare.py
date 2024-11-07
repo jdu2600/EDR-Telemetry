@@ -62,7 +62,10 @@ CATEGORIES_VALUED = {
     "Agent Uninstall": 1,
     "Agent Keep-Alive": 0.2,
     "Agent Errors": 0.2,
-    "WMI Activity":1,
+    "WmiEventConsumerToFilter":1,
+    "WmiEventConsumer":1,
+    "WmiEventFilter":1,
+    "WMI Operations":1,
     "BIT JOBS Activity": 1,
     "Script-Block Activity": 1
 }
